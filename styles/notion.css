@@ -7,9 +7,16 @@
  * places to add some flare.
  */
 
+
+
 .notion {
   --notion-max-width: 720px;
   --notion-header-height: 54px;
+}
+
+.notion-video {
+   line-height: 500px;
+   line-width: 1000px;
 }
 
 .notion-page {
